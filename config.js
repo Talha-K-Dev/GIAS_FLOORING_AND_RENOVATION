@@ -1,5 +1,5 @@
 window.GIAS_CONFIG = {
-  phone: "",
+  phone: "+12034659088",
   email: "",
   googleBusinessProfileUrl: "",
   googleReviewUrl: "",
